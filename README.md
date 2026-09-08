@@ -4,7 +4,8 @@
   <p><strong>Senior Backend Engineer • Distributed Systems • Microservices Specialist</strong></p>
 
   <p>
-    <a href="https://www.linkedin.com/in/chetan-yadav-49021a172/"><img src="https://img.shields.io/badge/LinkedIn-Chetan_Yadav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://portfolio-seven-taupe-79.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Live_Site-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Portfolio" /></a>
+    <a href="https://www.linkedin.com/in/chetan-yadav-49021a172/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Chetan_Yadav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="https://github.com/ychetan47"><img src="https://img.shields.io/badge/GitHub-ychetan47-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   </p>
 
@@ -20,6 +21,7 @@
 
 Backend Developer with **5+ years of experience** building scalable, high-throughput microservices and enterprise applications across **Fintech, Investment platforms, and High-Scale E-Commerce**.
 
+- 🌐 **Live Portfolio**: **[portfolio-seven-taupe-79.vercel.app](https://portfolio-seven-taupe-79.vercel.app/)**
 - 🔭 **Specialization**: Event-driven distributed systems, high-concurrency transaction management, and resilient cloud architectures.
 - ⚡ **Key Focus Areas**:
   - Event Choreography & Streaming with **Apache Kafka (KRaft)** and **Transactional Outbox**.
@@ -27,7 +29,7 @@ Backend Developer with **5+ years of experience** building scalable, high-throug
   - Fault tolerance with **Resilience4j** (Circuit Breakers, Exponential Retries, Bulkheads) & Token-Bucket Rate Limiting.
   - Enterprise Full-Stack Observability with **ELK Stack**, **OpenTelemetry**, **Prometheus**, and **Grafana**.
 - 💬 **Ask me about**: Java, Spring Boot, Kafka, System Design, Concurrency, PostgreSQL Optimization.
-- 📫 **Connect with me**: [LinkedIn](https://www.linkedin.com/in/chetan-yadav-49021a172/)
+- 📫 **Connect with me**: [LinkedIn](https://www.linkedin.com/in/chetan-yadav-49021a172/) • [Interactive Portfolio](https://portfolio-seven-taupe-79.vercel.app/)
 
 ---
 
@@ -128,9 +130,13 @@ Backend Developer with **5+ years of experience** building scalable, high-throug
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/ychetan47/portfolio">💼 Developer Portfolio</a></h4>
+      <h4>
+        <a href="https://github.com/ychetan47/portfolio">💼 Developer Portfolio</a> &nbsp;
+        <a href="https://portfolio-seven-taupe-79.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Live Demo" /></a>
+      </h4>
       <p>Modern developer portfolio showcasing distributed system architecture diagrams, enterprise engineering journey, and technical design principles.</p>
       <ul>
+        <li><strong>Live Deployment</strong>: <a href="https://portfolio-seven-taupe-79.vercel.app/" target="_blank">portfolio-seven-taupe-79.vercel.app</a></li>
         <li>Interactive architecture diagrams and technology showcases.</li>
         <li>Responsive design with tailored dark mode and sleek micro-animations.</li>
         <li>Documenting real-world production engineering practices and architectural blueprints.</li>
@@ -139,6 +145,7 @@ Backend Developer with **5+ years of experience** building scalable, high-throug
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square" />
         <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square" />
         <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square" />
+        <img src="https://img.shields.io/badge/Vercel_Deployed-000000?style=flat-square&logo=vercel&logoColor=white" />
       </p>
     </td>
   </tr>
@@ -160,5 +167,5 @@ Backend Developer with **5+ years of experience** building scalable, high-throug
 ---
 
 <div align="center">
-  <p>⭐️ <em>From <a href="https://github.com/ychetan47">ychetan47</a> • Always curious to design and build resilient, distributed systems</em></p>
+  <p>⭐️ <em>From <a href="https://github.com/ychetan47">ychetan47</a> • Explore my interactive portfolio at <a href="https://portfolio-seven-taupe-79.vercel.app/" target="_blank">portfolio-seven-taupe-79.vercel.app</a></em></p>
 </div>
